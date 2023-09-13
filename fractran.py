@@ -7,7 +7,7 @@ def fractran(fractions: List[Tuple[int, int]], n: int) -> int:
     """
     Interpréteur FRACTRAN
 
-    Les fractions sont données avec un numérateur et un dénominateurs entiers positifs sous forme de liste de tuples (numérateur, dénominateur).
+    Les fractions sont données avec un numérateur et un dénominateur entiers positifs sous forme de liste de tuples (numérateur, dénominateur).
     """
     
     ended: bool = False
